@@ -5,7 +5,7 @@
 	
 	A very simple library to provide the NTP setup functions to seed the time for TimeLib.h functions
 	(hour(), day(), etc.)
-	While this library works in the general case, the original motivtion for this was a replacemtn for the
+	While this library works in the general case, the original motivtion for this was a replacement for the
 	sketchy RTC Widgit in Blynk (www.blynk.cc)
 	
  
