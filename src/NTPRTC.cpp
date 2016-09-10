@@ -23,7 +23,7 @@
 #include <WiFiUdp.h>
 
 
-#define DEBUG					2 
+#define DEBUG					0 
 
 #define NTP_PACKET_SIZE		48				// NTP time is in the first 48 bytes of message
 #define NTP_TIMEOUT			1500
