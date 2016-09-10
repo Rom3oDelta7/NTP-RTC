@@ -30,10 +30,14 @@ For robustness, ```NTP_Init()``` will try all of the servers in the table of URL
 If no response is ever received, then the time value will be 0.
 
 ## Header Files
-```NTPRTC.h```
+```
+NTPRTC.h
+```
 Declares the library functions. Mandatory.
 
-```WorldTimezones.h```
+```
+WorldTimezones.h
+```
 C preprocessor defines for world timezones. Optional.
 
 
